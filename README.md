@@ -86,17 +86,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-> ⚠️ Replace these with your real projects!
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🔗 Project 1](https://github.com/youssefabidi/project1) | Infrastructure automation on AWS | Terraform, AWS, Python |
-| [🔗 Project 2](https://github.com/youssefabidi/project2) | CI/CD pipeline for microservices | Docker, K8s, GitHub Actions |
-| [🔗 Project 3](https://github.com/youssefabidi/project3) | Portfolio website | React, Node.js |
-
----
 
 ## 📫 Let's Connect
 
